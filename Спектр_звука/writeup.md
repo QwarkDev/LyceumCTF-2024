@@ -6,6 +6,6 @@
 <h2>Решение</h2>
 Из описания становиться понятно, что речь идет о спектрограммах в аудиозаписях<br><br>
 
-Открываем аудио-редактор (audacity или Sonic Visualiser) и включаем спектрограмму на аудиодорожку. Там мы и находим наш флаг<br><br>
+Открываем аудио-редактор (Audacity или Sonic Visualiser) и включаем спектрограмму на аудиодорожку. Там мы и находим наш флаг<br><br>
 
 <div align="center"><img width="900px" alt="image1" src="https://github.com/QwarkDev/LyceumCTF_2024/assets/160727310/a3f5c4ab-63da-4dae-b431-1cd9ce8a8b23"></div>
