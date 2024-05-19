@@ -7,4 +7,4 @@
 При открытии картинки мы не видим ничего необычного, поэтому прогоняем изображение через базовые утилиты, например <a href="https://aperisolve.fr">Aperi'Solve</a> или Stegsolve<br>
 На нулевом синем слое видим наш флаг<br>
 
-<div align="center"><img width="400px" alt="image1" src="https://github.com/QwarkDev/"></div>
+<div align="center"><img width="400px" alt="image1" src="https://github.com/QwarkDev/LyceumCTF_2024/assets/160727310/a8fcdb85-17dd-45f8-8f8e-dcd4895b4acf"></div>
