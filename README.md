@@ -1,7 +1,7 @@
 <h1>LyceumCTF_2024</h1>
 
 <p>10 мая 2024</p>
-<h2>Таски:</h2>
+<h2>Таски</h2>
 <a href="https://github.com/QwarkDev/LyceumCTF_2024/tree/main/Базированная_база">Базированная база</a> (crypto)<br>
 <a href="https://github.com/QwarkDev/LyceumCTF_2024/tree/main/Туда-сюда">Туда-сюда</a> (crypto)<br>
 <a href="https://github.com/QwarkDev/LyceumCTF_2024/tree/main/Брутфорс">Брутфорс</a> (crypto)<br>
@@ -20,7 +20,7 @@
 <a href="https://github.com/QwarkDev/LyceumCTF_2024/tree/main/Нулевая_ширина">Нулевая ширина</a> (stego)<br>
 <a href="https://github.com/QwarkDev/LyceumCTF_2024/tree/main/Спектр_звука">Спектр звука</a> (stego)<br>
 
-<h2>Команда разработки заданий:</h2>
+<h2>Команда разработки заданий</h2>
 <a href="http://t.me/eianisimov">Анисимов Егор</a><br>
 <a href="http://t.me/bequ1n">Куликовских Илья</a><br>
 <a href="http://t.me/z4vr1k_official">Заручевский Александр</a><br>
