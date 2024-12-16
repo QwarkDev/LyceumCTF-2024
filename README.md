@@ -1,4 +1,4 @@
-<h1>LyceumCTF_2024</h1>
+<h1>LyceumCTF Spring 2024</h1>
 
 <p>10 мая 2024</p>
 <h2>Таски</h2>
